@@ -37,6 +37,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social) [**LLaMator**](https://github.com/RomiconEZ/LLaMator) Framework for testing vulnerabilities of LLMs
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social) [**Plexiglass**](https://github.com/kortex-labs/plexiglass) Security toolbox for testing and safeguarding LLMs
 - ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social) [**Inkog**](https://github.com/inkog-io/inkog) AI agent security scanner (CLI + MCP server) detects prompt injection, SQLi via LLM.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tugkanboz/llm-security-scanner?style=social) [**llm-security-scanner**](https://github.com/tugkanboz/llm-security-scanner) Red-team toolkit for LLM apps — prompt injection, jailbreak & data exfiltration scanner with OWASP LLM Top 10 alignment and first-class Turkish payload support.
 
 ---
 
