@@ -229,3 +229,4 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=beyefendi/awesome-llm-security&type=Date" />
   </picture>
 </a>
+- **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard)** — OWASP reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory with SHA-256 integrity baselines, prompt injection detection, and YAML policy enforcement. Merged into UK Government BEIS inspect_evals. `pip install agent-memory-guard`
